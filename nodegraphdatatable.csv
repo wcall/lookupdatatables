@@ -1,0 +1,6 @@
+id,title,subtitle,Transactions per second,Average duration,Success,Errors
+0,login,service,0.392,0.603,1,0
+1,addtocart,service,0.898,0.636,0.637,0.363
+2,search,service,0.161,0.223,0.922,0.0782
+3,checkout,service,0.902,0.349,0.348,0.652
+4,payment,service,0.799,0.779,0.683,0.317
